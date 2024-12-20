@@ -37,3 +37,10 @@ Now open your web browser and Goto this link:
 ```
 http://127.0.0.1:8000
 ```
+
+## App Preview
+
+
+
+https://github.com/user-attachments/assets/1d403c51-cc5e-4d97-a154-b2e57f0498b9
+
